@@ -22,7 +22,7 @@ Each folder corresponds to a specific blog post. Navigate to the relevant direct
 *(This section will grow as more blog posts are published)*
 
 ## Getting Started
-1. Clone this repository: `git clone https://github.com/Engineer1999/Blog-Resources.git`
+1. Clone this repository: `https://github.com/kumartusha/Stock_Market_Analyzer_Agent.git`
 2. Navigate to the specific blog post directory you're interested in
 3. Follow the instructions in the post-specific README.md
 
@@ -30,10 +30,9 @@ Each folder corresponds to a specific blog post. Navigate to the relevant direct
 If you encounter any issues with the code or have questions about the implementations, please open an issue in this repository.
 
 ## Connect With Me
-Email: callbhargavp@gmail.com
+Email: kumartushar78867@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/bhargav-p-patel/
-
+LinkedIn: https://www.linkedin.com/in/tushar-kumar-ai
 
 ---
 
